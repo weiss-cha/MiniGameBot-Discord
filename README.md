@@ -10,15 +10,14 @@ Use the following command to start a new game with the bot. ~~I believe u know t
 ```console
 !play
 ```
-![](https://i.imgur.com/cVYyxae.jpg)
+<img src="https://i.imgur.com/6NuXeN0.jpg" width="400"/>
 
 ## Minigame: Gacha
 Try your luck first ~~unless you are a whale~~.
 ```console
 !gacha
 ```
-
-![](https://i.imgur.com/6NuXeN0.jpg)
+<img src="https://i.imgur.com/6NuXeN0.jpg" width="400"/>
 
 Of course, there is **this** function to pull 10 times in a row.
 ```console
